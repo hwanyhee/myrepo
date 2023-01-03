@@ -41,7 +41,7 @@
     <div class="jumbotron bg-warning">
       <h1>JSP 및 Servlet테스트</h1>      
     </div>
-    <h2>HELLO WORLD(최철환)</h2>
+    <h2>HELLO WORLD(최철환123456789)</h2>
     <fieldset class="form-group border p-3">
     	<legend class="w-auto px-3">JSP테스트</legend>
     	<h3>오늘은 <%= dateString %>일 입니다</h3>
